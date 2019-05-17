@@ -1,0 +1,20 @@
+<section class="phx-hero">
+  <p>Delivered to you by the <a href="https://phoenixframework.org">Phoenix Framework</a></p>
+</section>
+
+<section class="row">
+  <article class="column">
+    <h2>Resources</h2>
+    <ul>
+      <li>
+        <a href="/api/v1/qod?format=html">View the quote of the day</a>
+      </li>
+      <li>
+        <a href="/api/resources">View available resources</a>
+      </li>
+      <li>
+        <a href="/qod/suggest">Submit a request to add a quote</a>
+      </li>
+    </ul>
+  </article>
+</section>

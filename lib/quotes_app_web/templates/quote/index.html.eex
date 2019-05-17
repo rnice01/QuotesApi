@@ -1,0 +1,6 @@
+<div class="container">
+    <blockquote>
+        <h1><%= @quote.content %></h1>
+        <em>- <%= @quote.author %></em>
+    </blockquote>
+</div>
